@@ -50,7 +50,8 @@ plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))  # Convert BGR to RGB for dis
 plt.title("Input Image with Text")
 plt.axis('off')
 ```
-<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/d0ddd4f0-2906-4d5d-af17-f23bc3eeda87" />
+<img width="389" height="410" alt="image" src="https://github.com/user-attachments/assets/397d0a84-8041-4fed-96f9-9dceebc96469" />
+
 
 
 
@@ -69,7 +70,7 @@ plt.imshow(cv2.cvtColor(eroded_image, cv2.COLOR_BGR2RGB))  # Convert BGR to RGB
 plt.title("Eroded Image")
 plt.axis('off')
 ```
-<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/968c0a74-274e-470c-bbe2-ffe6bc363551" />
+<img width="389" height="410" alt="image" src="https://github.com/user-attachments/assets/4a315770-6c1c-4b85-9219-ff50fb1a7a37" />
 
 
 
@@ -84,7 +85,7 @@ plt.imshow(cv2.cvtColor(dilated_image, cv2.COLOR_BGR2RGB))  # Convert BGR to RGB
 plt.title("Dilated Image")
 plt.axis('off')
 ```
-<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/6512b8af-97aa-4501-9e4e-4983094790e7" />
+<img width="389" height="410" alt="image" src="https://github.com/user-attachments/assets/53c66ee6-6b07-4ef5-b3e2-0bdade3b561e" />
 
 
 
