@@ -1,4 +1,8 @@
-# Record-IMPLEMENTATION-OF-EROSION-AND-DILATION
+#  EXP - 9 - Record-IMPLEMENTATION-OF-EROSION-AND-DILATION
+
+## Developed By :  Vignesh S
+## Reg.No: 212223230240
+
 
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
@@ -24,8 +28,6 @@ Erode the image
 Dilate the Image
 
 ## Program:
-#### Name:  Vignesh S
-#### Reg.No: 212223230240
 
 ### Import the necessary packages
 ```
